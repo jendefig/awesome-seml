@@ -68,6 +68,7 @@ How to organize your model training experiments.
 - [Preparing and Architecting for Machine Learning](https://www.gartner.com/en/documents/3889770/preparing-and-architecting-for-machine-learning-2018-upd)
 - [Preliminary Systematic Literature Review of Machine Learning System Development Process](https://arxiv.org/abs/1910.05528) 🎓
 - [Software development best practices in a deep learning environment](https://towardsdatascience.com/software-development-best-practices-in-a-deep-learning-environment-a1769e9859b1)
+- [Terraform Provider Iterative (TPI) - Open-source CLI tool for full lifecycle management of computing resources for ML projects](https://github.com/iterative/terraform-provider-iterative)
 - [Testing and Debugging in Machine Learning](https://developers.google.com/machine-learning/testing-debugging)
 - [What Went Wrong and Why? Diagnosing Situated Interaction Failures in the Wild](https://www.microsoft.com/en-us/research/publication/what-went-wrong-and-why-diagnosing-situated-interaction-failures-in-the-wild/) 🎓
 
